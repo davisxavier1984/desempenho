@@ -1,0 +1,52 @@
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Iniciando processamento dos arquivos SISAB
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Buscando arquivos CSV em: C:\Python-Projetos\MAC\sisab\desempenho
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Encontrados 7 arquivos para processar
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Processando arquivo: paine-indicador (1).csv
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Arquivo lido com encoding: latin1
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Informações do cabeçalho: {'estado': 'PE.', 'municipios': ['ARAÇOIABA', 'CONDADO', 'MANARI.'], 'indicador': 'Proporção de gestantes com realização de exames para sífilis e HIV'}
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Processados dados de: CONDADO
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Processados dados de: MANARI
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Processados dados de: ARAÇOIABA
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Processando arquivo: paine-indicador (2).csv
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Arquivo lido com encoding: latin1
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Informações do cabeçalho: {'estado': 'PE.', 'municipios': ['ARAÇOIABA', 'CONDADO', 'MANARI.'], 'indicador': 'Proporção de gestantes com atendimento odontológico realizado'}
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Processados dados de: CONDADO
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Processados dados de: MANARI
+2025-04-23 15:03:19,490 - sisab_consolidado - INFO - Processados dados de: ARAÇOIABA
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processando arquivo: paine-indicador (3).csv
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Arquivo lido com encoding: latin1
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Informações do cabeçalho: {'estado': 'PE.', 'municipios': ['ARAÇOIABA', 'CONDADO', 'MANARI.'], 'indicador': 'Proporção de mulheres com coleta de citopatológico na APS'}
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: CONDADO
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: MANARI
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: ARAÇOIABA
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processando arquivo: paine-indicador (4).csv
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Arquivo lido com encoding: latin1
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Informações do cabeçalho: {'estado': 'PE.', 'municipios': ['ARAÇOIABA', 'CONDADO', 'MANARI.'], 'indicador': ' Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada'}
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: CONDADO
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: MANARI
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: ARAÇOIABA
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processando arquivo: paine-indicador (5).csv
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Arquivo lido com encoding: latin1
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Informações do cabeçalho: {'estado': 'PE.', 'municipios': ['ARAÇOIABA', 'CONDADO', 'MANARI.'], 'indicador': ' Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre'}
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: CONDADO
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: MANARI
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: ARAÇOIABA
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processando arquivo: paine-indicador (6).csv
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Arquivo lido com encoding: latin1
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Informações do cabeçalho: {'estado': 'PE.', 'municipios': ['ARAÇOIABA', 'CONDADO', 'MANARI.'], 'indicador': ' Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre'}
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: CONDADO
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: MANARI
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: ARAÇOIABA
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processando arquivo: paine-indicador.csv
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Arquivo lido com encoding: latin1
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Informações do cabeçalho: {'estado': 'PE.', 'municipios': ['ARAÇOIABA', 'CONDADO', 'MANARI.'], 'indicador': ' Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação'}
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: CONDADO
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: MANARI
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Processados dados de: ARAÇOIABA
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Total de indicadores processados: 7
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Total de municípios encontrados: 3
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Dados do município CONDADO salvos em: C:\Python-Projetos\MAC\sisab\desempenho\CONDADO.json
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Dados do município MANARI salvos em: C:\Python-Projetos\MAC\sisab\desempenho\MANARI.json
+2025-04-23 15:03:19,505 - sisab_consolidado - INFO - Dados do município ARAÇOIABA salvos em: C:\Python-Projetos\MAC\sisab\desempenho\ARAÇOIABA.json
+2025-04-23 15:03:19,647 - sisab_consolidado - INFO - Relatório consolidado gerado em: C:\Python-Projetos\MAC\sisab\desempenho\relatorio_consolidado.txt
+2025-04-23 15:03:19,647 - sisab_consolidado - INFO - Processamento concluído com sucesso: 3 municípios, 21 registros

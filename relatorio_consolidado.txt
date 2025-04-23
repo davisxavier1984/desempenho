@@ -1,0 +1,42 @@
+RELATÓRIO CONSOLIDADO DOS INDICADORES SISAB
+=========================================
+
+Data de geração: 23/04/2025 15:03
+Total de municípios processados: 3
+
+Total de indicadores: 7
+Períodos analisados: 2022 Q1 (%), 2022 Q2 (%), 2022 Q3 (%), 2023 Q1 (%), 2023 Q2 (%), 2023 Q3 (%), 2024 Q1 (%), 2024 Q2 (%), 2024 Q3 (%)
+
+Município: CONDADO
+------------------
+Total de indicadores: 7
+  - 2. Proporção de gestantes com realização de exames para sífilis e HIV: 1 registros
+  - 3. Proporção de gestantes com atendimento odontológico realizado: 1 registros
+  - 4. Proporção de mulheres com coleta de citopatológico na APS: 1 registros
+  - 5.  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada: 1 registros
+  - 6.  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre: 1 registros
+  - 7.  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre: 1 registros
+  - 1.  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação: 1 registros
+
+Município: MANARI
+-----------------
+Total de indicadores: 7
+  - 2. Proporção de gestantes com realização de exames para sífilis e HIV: 1 registros
+  - 3. Proporção de gestantes com atendimento odontológico realizado: 1 registros
+  - 4. Proporção de mulheres com coleta de citopatológico na APS: 1 registros
+  - 5.  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada: 1 registros
+  - 6.  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre: 1 registros
+  - 7.  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre: 1 registros
+  - 1.  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação: 1 registros
+
+Município: ARAÇOIABA
+--------------------
+Total de indicadores: 7
+  - 2. Proporção de gestantes com realização de exames para sífilis e HIV: 1 registros
+  - 3. Proporção de gestantes com atendimento odontológico realizado: 1 registros
+  - 4. Proporção de mulheres com coleta de citopatológico na APS: 1 registros
+  - 5.  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada: 1 registros
+  - 6.  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre: 1 registros
+  - 7.  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre: 1 registros
+  - 1.  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação: 1 registros
+

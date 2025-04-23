@@ -1,0 +1,1951 @@
+2025-04-23 14:45:57,281 - app_desempenho - INFO - Buscando arquivos JSON em 6 diretórios
+2025-04-23 14:45:57,283 - app_desempenho - INFO - Encontrados 3 arquivos em C:\Python-Projetos\MAC\SISAB\DESEMPENHO
+2025-04-23 14:45:57,320 - app_desempenho - INFO - Períodos identificados: ['2022 Q1 (%)', '2022 Q2 (%)', '2022 Q3 (%)', '2023 Q1 (%)', '2023 Q2 (%)', '2023 Q3 (%)', '2024 Q1 (%)', '2024 Q2 (%)', '2024 Q3 (%)']
+2025-04-23 14:45:57,321 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q1 (%) ===
+2025-04-23 14:45:57,321 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,323 - app_desempenho - INFO - Conversão de valor: 68 -> 68.0
+2025-04-23 14:45:57,323 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,323 - app_desempenho - INFO - - Valor original: 68
+2025-04-23 14:45:57,323 - app_desempenho - INFO - - Valor convertido: 68.0
+2025-04-23 14:45:57,323 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,324 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,324 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,324 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,324 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,324 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 14:45:57,324 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,324 - app_desempenho - INFO - - Valor original: 71
+2025-04-23 14:45:57,325 - app_desempenho - INFO - - Valor convertido: 71.0
+2025-04-23 14:45:57,325 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,325 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,325 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,325 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,325 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,325 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 14:45:57,326 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,326 - app_desempenho - INFO - - Valor original: 18
+2025-04-23 14:45:57,326 - app_desempenho - INFO - - Valor convertido: 18.0
+2025-04-23 14:45:57,326 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,326 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,326 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 4.5
+2025-04-23 14:45:57,326 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 4.5
+2025-04-23 14:45:57,327 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,327 - app_desempenho - INFO - Conversão de valor: 86 -> 86.0
+2025-04-23 14:45:57,327 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,327 - app_desempenho - INFO - - Valor original: 86
+2025-04-23 14:45:57,328 - app_desempenho - INFO - - Valor convertido: 86.0
+2025-04-23 14:45:57,328 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,328 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,328 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.052631578947368
+2025-04-23 14:45:57,329 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 18.105263157894736
+2025-04-23 14:45:57,329 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,329 - app_desempenho - INFO - Conversão de valor: 17 -> 17.0
+2025-04-23 14:45:57,329 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,329 - app_desempenho - INFO - - Valor original: 17
+2025-04-23 14:45:57,329 - app_desempenho - INFO - - Valor convertido: 17.0
+2025-04-23 14:45:57,329 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,330 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,330 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 3.4000000000000004
+2025-04-23 14:45:57,330 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 6.800000000000001
+2025-04-23 14:45:57,330 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,331 - app_desempenho - INFO - Conversão de valor: 6 -> 6.0
+2025-04-23 14:45:57,331 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,331 - app_desempenho - INFO - - Valor original: 6
+2025-04-23 14:45:57,331 - app_desempenho - INFO - - Valor convertido: 6.0
+2025-04-23 14:45:57,331 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,331 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,332 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 1.2
+2025-04-23 14:45:57,332 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 1.2
+2025-04-23 14:45:57,332 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,332 - app_desempenho - INFO - Conversão de valor: 45 -> 45.0
+2025-04-23 14:45:57,332 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,333 - app_desempenho - INFO - - Valor original: 45
+2025-04-23 14:45:57,333 - app_desempenho - INFO - - Valor convertido: 45.0
+2025-04-23 14:45:57,333 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,333 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,333 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,334 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,334 - app_desempenho - INFO - 
+Cálculo final do ISF para 2022 Q1 (%):
+2025-04-23 14:45:57,335 - app_desempenho - INFO - - Soma dos resultados ponderados: 60.60526315789474
+2025-04-23 14:45:57,335 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 6.1
+2025-04-23 14:45:57,335 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,335 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 68
+            - Valor convertido: 68.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,336 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 71
+            - Valor convertido: 71.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,336 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 18
+            - Valor convertido: 18.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 4.5
+            - Resultado ponderado: 4.5
+            
+2025-04-23 14:45:57,336 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 86
+            - Valor convertido: 86.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 9.052631578947368
+            - Resultado ponderado: 18.105263157894736
+            
+2025-04-23 14:45:57,336 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 17
+            - Valor convertido: 17.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 3.4000000000000004
+            - Resultado ponderado: 6.800000000000001
+            
+2025-04-23 14:45:57,336 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 6
+            - Valor convertido: 6.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 1.2
+            - Resultado ponderado: 1.2
+            
+2025-04-23 14:45:57,336 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 45
+            - Valor convertido: 45.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,336 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q2 (%) ===
+2025-04-23 14:45:57,337 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,337 - app_desempenho - INFO - Conversão de valor: 77 -> 77.0
+2025-04-23 14:45:57,337 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,337 - app_desempenho - INFO - - Valor original: 77
+2025-04-23 14:45:57,337 - app_desempenho - INFO - - Valor convertido: 77.0
+2025-04-23 14:45:57,337 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,337 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,338 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,338 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,338 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,338 - app_desempenho - INFO - Conversão de valor: 81 -> 81.0
+2025-04-23 14:45:57,338 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,339 - app_desempenho - INFO - - Valor original: 81
+2025-04-23 14:45:57,339 - app_desempenho - INFO - - Valor convertido: 81.0
+2025-04-23 14:45:57,339 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,339 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,339 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,339 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,340 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,340 - app_desempenho - INFO - Conversão de valor: 20 -> 20.0
+2025-04-23 14:45:57,340 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,340 - app_desempenho - INFO - - Valor original: 20
+2025-04-23 14:45:57,341 - app_desempenho - INFO - - Valor convertido: 20.0
+2025-04-23 14:45:57,341 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,341 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,341 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 5.0
+2025-04-23 14:45:57,341 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 5.0
+2025-04-23 14:45:57,341 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,342 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 14:45:57,342 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,342 - app_desempenho - INFO - - Valor original: 90
+2025-04-23 14:45:57,342 - app_desempenho - INFO - - Valor convertido: 90.0
+2025-04-23 14:45:57,342 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,342 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,342 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.473684210526315
+2025-04-23 14:45:57,344 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 18.94736842105263
+2025-04-23 14:45:57,345 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,345 - app_desempenho - INFO - Conversão de valor: 24 -> 24.0
+2025-04-23 14:45:57,345 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,345 - app_desempenho - INFO - - Valor original: 24
+2025-04-23 14:45:57,345 - app_desempenho - INFO - - Valor convertido: 24.0
+2025-04-23 14:45:57,345 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,345 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,345 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 4.8
+2025-04-23 14:45:57,345 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 9.6
+2025-04-23 14:45:57,345 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,346 - app_desempenho - INFO - Conversão de valor: 9 -> 9.0
+2025-04-23 14:45:57,346 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,346 - app_desempenho - INFO - - Valor original: 9
+2025-04-23 14:45:57,346 - app_desempenho - INFO - - Valor convertido: 9.0
+2025-04-23 14:45:57,346 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,346 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,346 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 1.7999999999999998
+2025-04-23 14:45:57,346 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 1.7999999999999998
+2025-04-23 14:45:57,346 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,346 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 14:45:57,346 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,346 - app_desempenho - INFO - - Valor original: 39
+2025-04-23 14:45:57,347 - app_desempenho - INFO - - Valor convertido: 39.0
+2025-04-23 14:45:57,347 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,347 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,348 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 8.666666666666668
+2025-04-23 14:45:57,348 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 8.666666666666668
+2025-04-23 14:45:57,348 - app_desempenho - INFO - 
+Cálculo final do ISF para 2022 Q2 (%):
+2025-04-23 14:45:57,348 - app_desempenho - INFO - - Soma dos resultados ponderados: 64.0140350877193
+2025-04-23 14:45:57,349 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 6.4
+2025-04-23 14:45:57,350 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,350 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 77
+            - Valor convertido: 77.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,354 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 81
+            - Valor convertido: 81.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,355 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 20
+            - Valor convertido: 20.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 5.0
+            - Resultado ponderado: 5.0
+            
+2025-04-23 14:45:57,355 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 90
+            - Valor convertido: 90.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 9.473684210526315
+            - Resultado ponderado: 18.94736842105263
+            
+2025-04-23 14:45:57,364 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 24
+            - Valor convertido: 24.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 4.8
+            - Resultado ponderado: 9.6
+            
+2025-04-23 14:45:57,364 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 9
+            - Valor convertido: 9.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 1.7999999999999998
+            - Resultado ponderado: 1.7999999999999998
+            
+2025-04-23 14:45:57,365 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 39
+            - Valor convertido: 39.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 8.666666666666668
+            - Resultado ponderado: 8.666666666666668
+            
+2025-04-23 14:45:57,365 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q3 (%) ===
+2025-04-23 14:45:57,365 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,365 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 14:45:57,365 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,366 - app_desempenho - INFO - - Valor original: 80
+2025-04-23 14:45:57,367 - app_desempenho - INFO - - Valor convertido: 80.0
+2025-04-23 14:45:57,367 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,367 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,367 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,367 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,367 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,371 - app_desempenho - INFO - Conversão de valor: 83 -> 83.0
+2025-04-23 14:45:57,371 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,371 - app_desempenho - INFO - - Valor original: 83
+2025-04-23 14:45:57,371 - app_desempenho - INFO - - Valor convertido: 83.0
+2025-04-23 14:45:57,371 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,371 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,372 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,372 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,372 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,373 - app_desempenho - INFO - Conversão de valor: 21 -> 21.0
+2025-04-23 14:45:57,373 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,374 - app_desempenho - INFO - - Valor original: 21
+2025-04-23 14:45:57,374 - app_desempenho - INFO - - Valor convertido: 21.0
+2025-04-23 14:45:57,375 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,375 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,375 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 5.25
+2025-04-23 14:45:57,375 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 5.25
+2025-04-23 14:45:57,376 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,376 - app_desempenho - INFO - Conversão de valor: 78 -> 78.0
+2025-04-23 14:45:57,376 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,376 - app_desempenho - INFO - - Valor original: 78
+2025-04-23 14:45:57,376 - app_desempenho - INFO - - Valor convertido: 78.0
+2025-04-23 14:45:57,377 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,377 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,377 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 8.210526315789474
+2025-04-23 14:45:57,377 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 16.42105263157895
+2025-04-23 14:45:57,377 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,378 - app_desempenho - INFO - Conversão de valor: 22 -> 22.0
+2025-04-23 14:45:57,378 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,379 - app_desempenho - INFO - - Valor original: 22
+2025-04-23 14:45:57,379 - app_desempenho - INFO - - Valor convertido: 22.0
+2025-04-23 14:45:57,380 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,380 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,387 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 4.4
+2025-04-23 14:45:57,388 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 8.8
+2025-04-23 14:45:57,389 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,389 - app_desempenho - INFO - Conversão de valor: 10 -> 10.0
+2025-04-23 14:45:57,389 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,393 - app_desempenho - INFO - - Valor original: 10
+2025-04-23 14:45:57,393 - app_desempenho - INFO - - Valor convertido: 10.0
+2025-04-23 14:45:57,394 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,399 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,399 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 2.0
+2025-04-23 14:45:57,400 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 2.0
+2025-04-23 14:45:57,400 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,400 - app_desempenho - INFO - Conversão de valor: 51 -> 51.0
+2025-04-23 14:45:57,400 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,401 - app_desempenho - INFO - - Valor original: 51
+2025-04-23 14:45:57,403 - app_desempenho - INFO - - Valor convertido: 51.0
+2025-04-23 14:45:57,403 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,403 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,403 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,404 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,404 - app_desempenho - INFO - 
+Cálculo final do ISF para 2022 Q3 (%):
+2025-04-23 14:45:57,404 - app_desempenho - INFO - - Soma dos resultados ponderados: 62.47105263157895
+2025-04-23 14:45:57,404 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 6.2
+2025-04-23 14:45:57,404 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,405 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 80
+            - Valor convertido: 80.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,405 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 83
+            - Valor convertido: 83.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,405 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 21
+            - Valor convertido: 21.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 5.25
+            - Resultado ponderado: 5.25
+            
+2025-04-23 14:45:57,405 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 78
+            - Valor convertido: 78.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 8.210526315789474
+            - Resultado ponderado: 16.42105263157895
+            
+2025-04-23 14:45:57,422 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 22
+            - Valor convertido: 22.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 4.4
+            - Resultado ponderado: 8.8
+            
+2025-04-23 14:45:57,423 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 10
+            - Valor convertido: 10.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 2.0
+            - Resultado ponderado: 2.0
+            
+2025-04-23 14:45:57,423 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 51
+            - Valor convertido: 51.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,423 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q1 (%) ===
+2025-04-23 14:45:57,423 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,424 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 14:45:57,424 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,424 - app_desempenho - INFO - - Valor original: 90
+2025-04-23 14:45:57,424 - app_desempenho - INFO - - Valor convertido: 90.0
+2025-04-23 14:45:57,425 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,425 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,425 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,425 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,426 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,426 - app_desempenho - INFO - Conversão de valor: 69 -> 69.0
+2025-04-23 14:45:57,426 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,426 - app_desempenho - INFO - - Valor original: 69
+2025-04-23 14:45:57,426 - app_desempenho - INFO - - Valor convertido: 69.0
+2025-04-23 14:45:57,427 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,427 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,427 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,427 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,428 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,428 - app_desempenho - INFO - Conversão de valor: 26 -> 26.0
+2025-04-23 14:45:57,428 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,428 - app_desempenho - INFO - - Valor original: 26
+2025-04-23 14:45:57,428 - app_desempenho - INFO - - Valor convertido: 26.0
+2025-04-23 14:45:57,430 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,430 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,430 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 6.5
+2025-04-23 14:45:57,430 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 6.5
+2025-04-23 14:45:57,431 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,432 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 14:45:57,432 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,432 - app_desempenho - INFO - - Valor original: 91
+2025-04-23 14:45:57,434 - app_desempenho - INFO - - Valor convertido: 91.0
+2025-04-23 14:45:57,435 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,435 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,435 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.578947368421053
+2025-04-23 14:45:57,436 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 19.157894736842106
+2025-04-23 14:45:57,436 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,437 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 14:45:57,437 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,437 - app_desempenho - INFO - - Valor original: 31
+2025-04-23 14:45:57,438 - app_desempenho - INFO - - Valor convertido: 31.0
+2025-04-23 14:45:57,438 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,438 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,438 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 6.2
+2025-04-23 14:45:57,438 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 12.4
+2025-04-23 14:45:57,439 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,439 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 14:45:57,439 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,439 - app_desempenho - INFO - - Valor original: 31
+2025-04-23 14:45:57,449 - app_desempenho - INFO - - Valor convertido: 31.0
+2025-04-23 14:45:57,449 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,449 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,450 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 6.2
+2025-04-23 14:45:57,450 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 6.2
+2025-04-23 14:45:57,450 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,450 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 14:45:57,451 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,451 - app_desempenho - INFO - - Valor original: 39
+2025-04-23 14:45:57,451 - app_desempenho - INFO - - Valor convertido: 39.0
+2025-04-23 14:45:57,453 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,454 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,454 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 8.666666666666668
+2025-04-23 14:45:57,455 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 8.666666666666668
+2025-04-23 14:45:57,455 - app_desempenho - INFO - 
+Cálculo final do ISF para 2023 Q1 (%):
+2025-04-23 14:45:57,455 - app_desempenho - INFO - - Soma dos resultados ponderados: 72.92456140350878
+2025-04-23 14:45:57,455 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 7.3
+2025-04-23 14:45:57,455 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,456 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 90
+            - Valor convertido: 90.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,456 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 69
+            - Valor convertido: 69.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,456 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 26
+            - Valor convertido: 26.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 6.5
+            - Resultado ponderado: 6.5
+            
+2025-04-23 14:45:57,457 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 91
+            - Valor convertido: 91.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 9.578947368421053
+            - Resultado ponderado: 19.157894736842106
+            
+2025-04-23 14:45:57,457 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 31
+            - Valor convertido: 31.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 6.2
+            - Resultado ponderado: 12.4
+            
+2025-04-23 14:45:57,457 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 31
+            - Valor convertido: 31.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 6.2
+            - Resultado ponderado: 6.2
+            
+2025-04-23 14:45:57,457 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 39
+            - Valor convertido: 39.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 8.666666666666668
+            - Resultado ponderado: 8.666666666666668
+            
+2025-04-23 14:45:57,458 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q2 (%) ===
+2025-04-23 14:45:57,458 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,458 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 14:45:57,458 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,458 - app_desempenho - INFO - - Valor original: 92
+2025-04-23 14:45:57,459 - app_desempenho - INFO - - Valor convertido: 92.0
+2025-04-23 14:45:57,459 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,459 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,459 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,459 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,459 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,460 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 14:45:57,460 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,460 - app_desempenho - INFO - - Valor original: 92
+2025-04-23 14:45:57,461 - app_desempenho - INFO - - Valor convertido: 92.0
+2025-04-23 14:45:57,461 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,461 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,461 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,462 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,462 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,462 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 14:45:57,463 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,463 - app_desempenho - INFO - - Valor original: 31
+2025-04-23 14:45:57,463 - app_desempenho - INFO - - Valor convertido: 31.0
+2025-04-23 14:45:57,463 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,463 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,464 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 7.75
+2025-04-23 14:45:57,464 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 7.75
+2025-04-23 14:45:57,464 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,464 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 14:45:57,464 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,465 - app_desempenho - INFO - - Valor original: 91
+2025-04-23 14:45:57,465 - app_desempenho - INFO - - Valor convertido: 91.0
+2025-04-23 14:45:57,465 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,465 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,465 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.578947368421053
+2025-04-23 14:45:57,465 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 19.157894736842106
+2025-04-23 14:45:57,466 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,466 - app_desempenho - INFO - Conversão de valor: 50 -> 50.0
+2025-04-23 14:45:57,466 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,466 - app_desempenho - INFO - - Valor original: 50
+2025-04-23 14:45:57,466 - app_desempenho - INFO - - Valor convertido: 50.0
+2025-04-23 14:45:57,466 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,466 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,467 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,467 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 20
+2025-04-23 14:45:57,471 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,473 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 14:45:57,473 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,473 - app_desempenho - INFO - - Valor original: 47
+2025-04-23 14:45:57,478 - app_desempenho - INFO - - Valor convertido: 47.0
+2025-04-23 14:45:57,479 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,480 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,481 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.399999999999999
+2025-04-23 14:45:57,481 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 9.399999999999999
+2025-04-23 14:45:57,481 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,481 - app_desempenho - INFO - Conversão de valor: 54 -> 54.0
+2025-04-23 14:45:57,482 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,482 - app_desempenho - INFO - - Valor original: 54
+2025-04-23 14:45:57,482 - app_desempenho - INFO - - Valor convertido: 54.0
+2025-04-23 14:45:57,482 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,482 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,482 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,483 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,483 - app_desempenho - INFO - 
+Cálculo final do ISF para 2023 Q2 (%):
+2025-04-23 14:45:57,486 - app_desempenho - INFO - - Soma dos resultados ponderados: 86.3078947368421
+2025-04-23 14:45:57,486 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 8.6
+2025-04-23 14:45:57,486 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,486 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 92
+            - Valor convertido: 92.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,486 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 92
+            - Valor convertido: 92.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,487 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 31
+            - Valor convertido: 31.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 7.75
+            - Resultado ponderado: 7.75
+            
+2025-04-23 14:45:57,487 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 91
+            - Valor convertido: 91.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 9.578947368421053
+            - Resultado ponderado: 19.157894736842106
+            
+2025-04-23 14:45:57,487 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 50
+            - Valor convertido: 50.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 10
+            - Resultado ponderado: 20
+            
+2025-04-23 14:45:57,487 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 47
+            - Valor convertido: 47.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 9.399999999999999
+            - Resultado ponderado: 9.399999999999999
+            
+2025-04-23 14:45:57,487 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 54
+            - Valor convertido: 54.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,487 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q3 (%) ===
+2025-04-23 14:45:57,487 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,487 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 14:45:57,488 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,488 - app_desempenho - INFO - - Valor original: 98
+2025-04-23 14:45:57,488 - app_desempenho - INFO - - Valor convertido: 98.0
+2025-04-23 14:45:57,488 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,489 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,495 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,496 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,496 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,496 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 14:45:57,498 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,498 - app_desempenho - INFO - - Valor original: 96
+2025-04-23 14:45:57,498 - app_desempenho - INFO - - Valor convertido: 96.0
+2025-04-23 14:45:57,502 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,502 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,502 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,502 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,503 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,503 - app_desempenho - INFO - Conversão de valor: 36 -> 36.0
+2025-04-23 14:45:57,503 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,503 - app_desempenho - INFO - - Valor original: 36
+2025-04-23 14:45:57,504 - app_desempenho - INFO - - Valor convertido: 36.0
+2025-04-23 14:45:57,504 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,504 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,504 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.0
+2025-04-23 14:45:57,504 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 9.0
+2025-04-23 14:45:57,505 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,505 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 14:45:57,505 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,505 - app_desempenho - INFO - - Valor original: 99
+2025-04-23 14:45:57,507 - app_desempenho - INFO - - Valor convertido: 99.0
+2025-04-23 14:45:57,507 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,507 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,508 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,509 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 20
+2025-04-23 14:45:57,510 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,510 - app_desempenho - INFO - Conversão de valor: 50 -> 50.0
+2025-04-23 14:45:57,511 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,511 - app_desempenho - INFO - - Valor original: 50
+2025-04-23 14:45:57,512 - app_desempenho - INFO - - Valor convertido: 50.0
+2025-04-23 14:45:57,512 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,512 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,512 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,512 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 20
+2025-04-23 14:45:57,513 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,513 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 14:45:57,513 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,513 - app_desempenho - INFO - - Valor original: 47
+2025-04-23 14:45:57,513 - app_desempenho - INFO - - Valor convertido: 47.0
+2025-04-23 14:45:57,513 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,513 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,513 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.399999999999999
+2025-04-23 14:45:57,514 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 9.399999999999999
+2025-04-23 14:45:57,514 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,514 - app_desempenho - INFO - Conversão de valor: 66 -> 66.0
+2025-04-23 14:45:57,514 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,514 - app_desempenho - INFO - - Valor original: 66
+2025-04-23 14:45:57,514 - app_desempenho - INFO - - Valor convertido: 66.0
+2025-04-23 14:45:57,514 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,514 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,515 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,515 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,515 - app_desempenho - INFO - 
+Cálculo final do ISF para 2023 Q3 (%):
+2025-04-23 14:45:57,515 - app_desempenho - INFO - - Soma dos resultados ponderados: 88.4
+2025-04-23 14:45:57,515 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 8.8
+2025-04-23 14:45:57,516 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,516 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 98
+            - Valor convertido: 98.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 96
+            - Valor convertido: 96.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 36
+            - Valor convertido: 36.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 9.0
+            - Resultado ponderado: 9.0
+            
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 99
+            - Valor convertido: 99.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 10
+            - Resultado ponderado: 20
+            
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 50
+            - Valor convertido: 50.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 10
+            - Resultado ponderado: 20
+            
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 47
+            - Valor convertido: 47.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 9.399999999999999
+            - Resultado ponderado: 9.399999999999999
+            
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 66
+            - Valor convertido: 66.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q1 (%) ===
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor original: 94
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor convertido: 94.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor original: 94
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor convertido: 94.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor original: 41
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor convertido: 41.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor original: 96
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor convertido: 96.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 20
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Conversão de valor: 48 -> 48.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor original: 48
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor convertido: 48.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.6
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 19.2
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Conversão de valor: 49 -> 49.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor original: 49
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Valor convertido: 49.0
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.8
+2025-04-23 14:45:57,519 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 9.8
+2025-04-23 14:45:57,519 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,534 - app_desempenho - INFO - Conversão de valor: 64 -> 64.0
+2025-04-23 14:45:57,536 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,536 - app_desempenho - INFO - - Valor original: 64
+2025-04-23 14:45:57,536 - app_desempenho - INFO - - Valor convertido: 64.0
+2025-04-23 14:45:57,537 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,537 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,537 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,537 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,537 - app_desempenho - INFO - 
+Cálculo final do ISF para 2024 Q1 (%):
+2025-04-23 14:45:57,537 - app_desempenho - INFO - - Soma dos resultados ponderados: 89.0
+2025-04-23 14:45:57,539 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 8.9
+2025-04-23 14:45:57,539 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,540 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 94
+            - Valor convertido: 94.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,540 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 94
+            - Valor convertido: 94.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,541 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 41
+            - Valor convertido: 41.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,541 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 96
+            - Valor convertido: 96.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 10
+            - Resultado ponderado: 20
+            
+2025-04-23 14:45:57,541 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 48
+            - Valor convertido: 48.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 9.6
+            - Resultado ponderado: 19.2
+            
+2025-04-23 14:45:57,541 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 49
+            - Valor convertido: 49.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 9.8
+            - Resultado ponderado: 9.8
+            
+2025-04-23 14:45:57,541 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 64
+            - Valor convertido: 64.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,543 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q2 (%) ===
+2025-04-23 14:45:57,543 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,543 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 14:45:57,543 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,544 - app_desempenho - INFO - - Valor original: 99
+2025-04-23 14:45:57,544 - app_desempenho - INFO - - Valor convertido: 99.0
+2025-04-23 14:45:57,546 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,546 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,546 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,547 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,547 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,547 - app_desempenho - INFO - Conversão de valor: 95 -> 95.0
+2025-04-23 14:45:57,548 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,548 - app_desempenho - INFO - - Valor original: 95
+2025-04-23 14:45:57,548 - app_desempenho - INFO - - Valor convertido: 95.0
+2025-04-23 14:45:57,548 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,548 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,549 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,550 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,550 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,551 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 14:45:57,552 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,552 - app_desempenho - INFO - - Valor original: 42
+2025-04-23 14:45:57,552 - app_desempenho - INFO - - Valor convertido: 42.0
+2025-04-23 14:45:57,553 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,553 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,553 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,553 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,554 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,554 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 14:45:57,554 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,554 - app_desempenho - INFO - - Valor original: 94
+2025-04-23 14:45:57,554 - app_desempenho - INFO - - Valor convertido: 94.0
+2025-04-23 14:45:57,554 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,555 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,555 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.894736842105264
+2025-04-23 14:45:57,556 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 19.789473684210527
+2025-04-23 14:45:57,556 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,556 - app_desempenho - INFO - Conversão de valor: 33 -> 33.0
+2025-04-23 14:45:57,556 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,556 - app_desempenho - INFO - - Valor original: 33
+2025-04-23 14:45:57,557 - app_desempenho - INFO - - Valor convertido: 33.0
+2025-04-23 14:45:57,557 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,557 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,557 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 6.6000000000000005
+2025-04-23 14:45:57,557 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 13.200000000000001
+2025-04-23 14:45:57,558 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,558 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 14:45:57,558 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,558 - app_desempenho - INFO - - Valor original: 25
+2025-04-23 14:45:57,558 - app_desempenho - INFO - - Valor convertido: 25.0
+2025-04-23 14:45:57,558 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,558 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,558 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 5.0
+2025-04-23 14:45:57,559 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 5.0
+2025-04-23 14:45:57,559 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,559 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 14:45:57,559 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,559 - app_desempenho - INFO - - Valor original: 70
+2025-04-23 14:45:57,559 - app_desempenho - INFO - - Valor convertido: 70.0
+2025-04-23 14:45:57,560 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,560 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,560 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,560 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,560 - app_desempenho - INFO - 
+Cálculo final do ISF para 2024 Q2 (%):
+2025-04-23 14:45:57,560 - app_desempenho - INFO - - Soma dos resultados ponderados: 77.98947368421052
+2025-04-23 14:45:57,560 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 7.8
+2025-04-23 14:45:57,560 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,561 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 99
+            - Valor convertido: 99.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,561 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 95
+            - Valor convertido: 95.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,561 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 42
+            - Valor convertido: 42.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,561 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 94
+            - Valor convertido: 94.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 9.894736842105264
+            - Resultado ponderado: 19.789473684210527
+            
+2025-04-23 14:45:57,561 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 33
+            - Valor convertido: 33.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 6.6000000000000005
+            - Resultado ponderado: 13.200000000000001
+            
+2025-04-23 14:45:57,561 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 25
+            - Valor convertido: 25.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 5.0
+            - Resultado ponderado: 5.0
+            
+2025-04-23 14:45:57,561 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 70
+            - Valor convertido: 70.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,561 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q3 (%) ===
+2025-04-23 14:45:57,562 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,562 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 14:45:57,562 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+2025-04-23 14:45:57,562 - app_desempenho - INFO - - Valor original: 92
+2025-04-23 14:45:57,562 - app_desempenho - INFO - - Valor convertido: 92.0
+2025-04-23 14:45:57,562 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,562 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,562 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,563 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,563 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,563 - app_desempenho - INFO - Conversão de valor: 83 -> 83.0
+2025-04-23 14:45:57,563 - app_desempenho - INFO - 
+Processando indicador: Proporção de gestantes com atendimento odontológico realizado
+2025-04-23 14:45:57,563 - app_desempenho - INFO - - Valor original: 83
+2025-04-23 14:45:57,563 - app_desempenho - INFO - - Valor convertido: 83.0
+2025-04-23 14:45:57,563 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,563 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,563 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,563 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,564 - app_desempenho - INFO - Correspondência aproximada para indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,564 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 14:45:57,564 - app_desempenho - INFO - 
+Processando indicador: Proporção de mulheres com coleta de citopatológico na APS
+2025-04-23 14:45:57,564 - app_desempenho - INFO - - Valor original: 41
+2025-04-23 14:45:57,564 - app_desempenho - INFO - - Valor convertido: 41.0
+2025-04-23 14:45:57,564 - app_desempenho - INFO - - Meta: 40
+2025-04-23 14:45:57,564 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,564 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,565 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,565 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,565 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 14:45:57,566 - app_desempenho - INFO - 
+Processando indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+2025-04-23 14:45:57,566 - app_desempenho - INFO - - Valor original: 94
+2025-04-23 14:45:57,566 - app_desempenho - INFO - - Valor convertido: 94.0
+2025-04-23 14:45:57,566 - app_desempenho - INFO - - Meta: 95
+2025-04-23 14:45:57,566 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,566 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 9.894736842105264
+2025-04-23 14:45:57,567 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 19.789473684210527
+2025-04-23 14:45:57,567 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,567 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 14:45:57,567 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+2025-04-23 14:45:57,567 - app_desempenho - INFO - - Valor original: 25
+2025-04-23 14:45:57,567 - app_desempenho - INFO - - Valor convertido: 25.0
+2025-04-23 14:45:57,568 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,568 - app_desempenho - INFO - - Ponderação: 2
+2025-04-23 14:45:57,569 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 5.0
+2025-04-23 14:45:57,569 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10.0
+2025-04-23 14:45:57,570 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,570 - app_desempenho - INFO - Conversão de valor: 19 -> 19.0
+2025-04-23 14:45:57,570 - app_desempenho - INFO - 
+Processando indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+2025-04-23 14:45:57,571 - app_desempenho - INFO - - Valor original: 19
+2025-04-23 14:45:57,572 - app_desempenho - INFO - - Valor convertido: 19.0
+2025-04-23 14:45:57,572 - app_desempenho - INFO - - Meta: 50
+2025-04-23 14:45:57,572 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,572 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 3.8
+2025-04-23 14:45:57,572 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 3.8
+2025-04-23 14:45:57,573 - app_desempenho - INFO - Correspondência aproximada para indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,573 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 14:45:57,573 - app_desempenho - INFO - 
+Processando indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+2025-04-23 14:45:57,573 - app_desempenho - INFO - - Valor original: 71
+2025-04-23 14:45:57,574 - app_desempenho - INFO - - Valor convertido: 71.0
+2025-04-23 14:45:57,575 - app_desempenho - INFO - - Meta: 45
+2025-04-23 14:45:57,575 - app_desempenho - INFO - - Ponderação: 1
+2025-04-23 14:45:57,575 - app_desempenho - INFO - - Pontuação calculada (resultado/meta * 10): 10
+2025-04-23 14:45:57,576 - app_desempenho - INFO - - Resultado ponderado (pontuação * ponderação): 10
+2025-04-23 14:45:57,576 - app_desempenho - INFO - 
+Cálculo final do ISF para 2024 Q3 (%):
+2025-04-23 14:45:57,576 - app_desempenho - INFO - - Soma dos resultados ponderados: 73.58947368421053
+2025-04-23 14:45:57,577 - app_desempenho - INFO - - ISF final (soma ponderada / 10): 7.4
+2025-04-23 14:45:57,577 - app_desempenho - INFO - 
+Resumo dos indicadores processados:
+2025-04-23 14:45:57,578 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com realização de exames para sífilis e HIV
+            - Valor original: 92
+            - Valor convertido: 92.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,578 - app_desempenho - INFO - 
+            Indicador: Proporção de gestantes com atendimento odontológico realizado
+            - Valor original: 83
+            - Valor convertido: 83.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,605 - app_desempenho - INFO - 
+            Indicador: Proporção de mulheres com coleta de citopatológico na APS
+            - Valor original: 41
+            - Valor convertido: 41.0
+            - Meta: 40
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,605 - app_desempenho - INFO - 
+            Indicador:  Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada
+            - Valor original: 94
+            - Valor convertido: 94.0
+            - Meta: 95
+            - Ponderação: 2
+            - Pontuação: 9.894736842105264
+            - Resultado ponderado: 19.789473684210527
+            
+2025-04-23 14:45:57,605 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com hipertensão, com consulta e pressão arterial aferida no semestre
+            - Valor original: 25
+            - Valor convertido: 25.0
+            - Meta: 50
+            - Ponderação: 2
+            - Pontuação: 5.0
+            - Resultado ponderado: 10.0
+            
+2025-04-23 14:45:57,605 - app_desempenho - INFO - 
+            Indicador:  Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada no semestre
+            - Valor original: 19
+            - Valor convertido: 19.0
+            - Meta: 50
+            - Ponderação: 1
+            - Pontuação: 3.8
+            - Resultado ponderado: 3.8
+            
+2025-04-23 14:45:57,606 - app_desempenho - INFO - 
+            Indicador:  Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 12ª (décima segunda) semana de gestação
+            - Valor original: 71
+            - Valor convertido: 71.0
+            - Meta: 45
+            - Ponderação: 1
+            - Pontuação: 10
+            - Resultado ponderado: 10
+            
+2025-04-23 14:45:57,606 - app_desempenho - INFO - 
+Valores finais do ISF por período:
+2025-04-23 14:45:57,606 - app_desempenho - INFO - 2022 Q1 (%): 6.1
+2025-04-23 14:45:57,606 - app_desempenho - INFO - 2022 Q2 (%): 6.4
+2025-04-23 14:45:57,607 - app_desempenho - INFO - 2022 Q3 (%): 6.2
+2025-04-23 14:45:57,607 - app_desempenho - INFO - 2023 Q1 (%): 7.3
+2025-04-23 14:45:57,607 - app_desempenho - INFO - 2023 Q2 (%): 8.6
+2025-04-23 14:45:57,607 - app_desempenho - INFO - 2023 Q3 (%): 8.8
+2025-04-23 14:45:57,607 - app_desempenho - INFO - 2024 Q1 (%): 8.9
+2025-04-23 14:45:57,608 - app_desempenho - INFO - 2024 Q2 (%): 7.8
+2025-04-23 14:45:57,608 - app_desempenho - INFO - 2024 Q3 (%): 7.4
+2025-04-23 15:16:32,998 - app_desempenho - INFO - Carregado município: ARAÇOIABA do arquivo ARAÇOIABA.json
+2025-04-23 15:16:33,000 - app_desempenho - INFO - Carregado município: CONDADO do arquivo CONDADO.json
+2025-04-23 15:16:33,000 - app_desempenho - INFO - Carregado município: MANARI do arquivo MANARI.json
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Períodos identificados: ['2022 Q1 (%)', '2022 Q2 (%)', '2022 Q3 (%)', '2023 Q1 (%)', '2023 Q2 (%)', '2023 Q3 (%)', '2024 Q1 (%)', '2024 Q2 (%)', '2024 Q3 (%)']
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q1 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 45 -> 45.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 68 -> 68.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 86 -> 86.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 17 -> 17.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 6 -> 6.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2022 Q1 (%): 7.1
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q2 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 77 -> 77.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 81 -> 81.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 20 -> 20.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 24 -> 24.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 9 -> 9.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2022 Q2 (%): 7.4
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q3 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 51 -> 51.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 83 -> 83.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 21 -> 21.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 78 -> 78.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 22 -> 22.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 10 -> 10.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2022 Q3 (%): 7.2
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q1 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 69 -> 69.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 26 -> 26.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2023 Q1 (%): 8.3
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q2 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 54 -> 54.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 50 -> 50.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2023 Q2 (%): 9.6
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q3 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 66 -> 66.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 36 -> 36.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 50 -> 50.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2023 Q3 (%): 9.8
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q1 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 64 -> 64.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 48 -> 48.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 49 -> 49.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2024 Q1 (%): 9.9
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q2 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 95 -> 95.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 33 -> 33.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2024 Q2 (%): 8.8
+2025-04-23 15:16:33,010 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q3 (%) ===
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 83 -> 83.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - Conversão de valor: 19 -> 19.0
+2025-04-23 15:16:33,010 - app_desempenho - INFO - ISF para 2024 Q3 (%): 8.4
+2025-04-23 15:16:36,949 - app_desempenho - INFO - Carregado município: ARAÇOIABA do arquivo ARAÇOIABA.json
+2025-04-23 15:16:36,949 - app_desempenho - INFO - Carregado município: CONDADO do arquivo CONDADO.json
+2025-04-23 15:16:36,949 - app_desempenho - INFO - Carregado município: MANARI do arquivo MANARI.json
+2025-04-23 15:16:36,963 - app_desempenho - INFO - Períodos identificados: ['2022 Q1 (%)', '2022 Q2 (%)', '2022 Q3 (%)', '2023 Q1 (%)', '2023 Q2 (%)', '2023 Q3 (%)', '2024 Q1 (%)', '2024 Q2 (%)', '2024 Q3 (%)']
+2025-04-23 15:16:36,963 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q1 (%) ===
+2025-04-23 15:16:36,963 - app_desempenho - INFO - Conversão de valor: 58 -> 58.0
+2025-04-23 15:16:36,964 - app_desempenho - INFO - Conversão de valor: 56 -> 56.0
+2025-04-23 15:16:36,964 - app_desempenho - INFO - Conversão de valor: 58 -> 58.0
+2025-04-23 15:16:36,964 - app_desempenho - INFO - Conversão de valor: 21 -> 21.0
+2025-04-23 15:16:36,964 - app_desempenho - INFO - Conversão de valor: 64 -> 64.0
+2025-04-23 15:16:36,964 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:16:36,965 - app_desempenho - INFO - Conversão de valor: 9 -> 9.0
+2025-04-23 15:16:36,965 - app_desempenho - INFO - ISF para 2022 Q1 (%): 6.8
+2025-04-23 15:16:36,965 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q2 (%) ===
+2025-04-23 15:16:36,965 - app_desempenho - INFO - Conversão de valor: 60 -> 60.0
+2025-04-23 15:16:36,966 - app_desempenho - INFO - Conversão de valor: 84 -> 84.0
+2025-04-23 15:16:36,966 - app_desempenho - INFO - Conversão de valor: 78 -> 78.0
+2025-04-23 15:16:36,966 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:16:36,966 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:16:36,966 - app_desempenho - INFO - Conversão de valor: 17 -> 17.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 10 -> 10.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - ISF para 2022 Q2 (%): 7.1
+2025-04-23 15:16:36,967 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q3 (%) ===
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 72 -> 72.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 84 -> 84.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 24 -> 24.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 79 -> 79.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 14 -> 14.0
+2025-04-23 15:16:36,967 - app_desempenho - INFO - ISF para 2022 Q3 (%): 7.3
+2025-04-23 15:16:36,967 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q1 (%) ===
+2025-04-23 15:16:36,967 - app_desempenho - INFO - Conversão de valor: 57 -> 57.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 74 -> 74.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 84 -> 84.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 37 -> 37.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 88 -> 88.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 19 -> 19.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - ISF para 2023 Q1 (%): 7.9
+2025-04-23 15:16:36,968 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q2 (%) ===
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 66 -> 66.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 87 -> 87.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 85 -> 85.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 44 -> 44.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 20 -> 20.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:16:36,968 - app_desempenho - INFO - ISF para 2023 Q2 (%): 8.3
+2025-04-23 15:16:36,968 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q3 (%) ===
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 73 -> 73.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 44 -> 44.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 100 -> 100.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - ISF para 2023 Q3 (%): 9.4
+2025-04-23 15:16:36,969 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q1 (%) ===
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 72 -> 72.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 89 -> 89.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 86 -> 86.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 46 -> 46.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 93 -> 93.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 15:16:36,969 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - ISF para 2024 Q1 (%): 9.7
+2025-04-23 15:16:36,970 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q2 (%) ===
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 85 -> 85.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 46 -> 46.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 37 -> 37.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - ISF para 2024 Q2 (%): 9.3
+2025-04-23 15:16:36,970 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q3 (%) ===
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 73 -> 73.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 46 -> 46.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:16:36,970 - app_desempenho - INFO - Conversão de valor: 16 -> 16.0
+2025-04-23 15:16:36,971 - app_desempenho - INFO - Conversão de valor: 13 -> 13.0
+2025-04-23 15:16:36,971 - app_desempenho - INFO - ISF para 2024 Q3 (%): 7.9
+2025-04-23 15:17:11,858 - app_desempenho - INFO - Carregado município: ARAÇOIABA do arquivo ARAÇOIABA.json
+2025-04-23 15:17:11,858 - app_desempenho - INFO - Carregado município: CONDADO do arquivo CONDADO.json
+2025-04-23 15:17:11,858 - app_desempenho - INFO - Carregado município: MANARI do arquivo MANARI.json
+2025-04-23 15:17:11,873 - app_desempenho - INFO - Períodos identificados: ['2022 Q1 (%)', '2022 Q2 (%)', '2022 Q3 (%)', '2023 Q1 (%)', '2023 Q2 (%)', '2023 Q3 (%)', '2024 Q1 (%)', '2024 Q2 (%)', '2024 Q3 (%)']
+2025-04-23 15:17:11,873 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q1 (%) ===
+2025-04-23 15:17:11,874 - app_desempenho - INFO - Conversão de valor: 45 -> 45.0
+2025-04-23 15:17:11,874 - app_desempenho - INFO - Conversão de valor: 68 -> 68.0
+2025-04-23 15:17:11,874 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:17:11,874 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:17:11,874 - app_desempenho - INFO - Conversão de valor: 86 -> 86.0
+2025-04-23 15:17:11,875 - app_desempenho - INFO - Conversão de valor: 17 -> 17.0
+2025-04-23 15:17:11,875 - app_desempenho - INFO - Conversão de valor: 6 -> 6.0
+2025-04-23 15:17:11,875 - app_desempenho - INFO - ISF para 2022 Q1 (%): 7.1
+2025-04-23 15:17:11,875 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q2 (%) ===
+2025-04-23 15:17:11,875 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:17:11,876 - app_desempenho - INFO - Conversão de valor: 77 -> 77.0
+2025-04-23 15:17:11,876 - app_desempenho - INFO - Conversão de valor: 81 -> 81.0
+2025-04-23 15:17:11,876 - app_desempenho - INFO - Conversão de valor: 20 -> 20.0
+2025-04-23 15:17:11,877 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 15:17:11,877 - app_desempenho - INFO - Conversão de valor: 24 -> 24.0
+2025-04-23 15:17:11,877 - app_desempenho - INFO - Conversão de valor: 9 -> 9.0
+2025-04-23 15:17:11,877 - app_desempenho - INFO - ISF para 2022 Q2 (%): 7.4
+2025-04-23 15:17:11,877 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q3 (%) ===
+2025-04-23 15:17:11,877 - app_desempenho - INFO - Conversão de valor: 51 -> 51.0
+2025-04-23 15:17:11,877 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:17:11,877 - app_desempenho - INFO - Conversão de valor: 83 -> 83.0
+2025-04-23 15:17:11,878 - app_desempenho - INFO - Conversão de valor: 21 -> 21.0
+2025-04-23 15:17:11,878 - app_desempenho - INFO - Conversão de valor: 78 -> 78.0
+2025-04-23 15:17:11,878 - app_desempenho - INFO - Conversão de valor: 22 -> 22.0
+2025-04-23 15:17:11,878 - app_desempenho - INFO - Conversão de valor: 10 -> 10.0
+2025-04-23 15:17:11,878 - app_desempenho - INFO - ISF para 2022 Q3 (%): 7.2
+2025-04-23 15:17:11,878 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q1 (%) ===
+2025-04-23 15:17:11,878 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:17:11,878 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 69 -> 69.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 26 -> 26.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - ISF para 2023 Q1 (%): 8.3
+2025-04-23 15:17:11,879 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q2 (%) ===
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 54 -> 54.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:17:11,879 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 50 -> 50.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - ISF para 2023 Q2 (%): 9.6
+2025-04-23 15:17:11,880 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q3 (%) ===
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 66 -> 66.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 36 -> 36.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 15:17:11,880 - app_desempenho - INFO - Conversão de valor: 50 -> 50.0
+2025-04-23 15:17:11,881 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 15:17:11,881 - app_desempenho - INFO - ISF para 2023 Q3 (%): 9.8
+2025-04-23 15:17:11,881 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q1 (%) ===
+2025-04-23 15:17:11,881 - app_desempenho - INFO - Conversão de valor: 64 -> 64.0
+2025-04-23 15:17:11,881 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:17:11,881 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:17:11,881 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:17:11,881 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 15:17:11,881 - app_desempenho - INFO - Conversão de valor: 48 -> 48.0
+2025-04-23 15:17:11,881 - app_desempenho - INFO - Conversão de valor: 49 -> 49.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - ISF para 2024 Q1 (%): 9.9
+2025-04-23 15:17:11,882 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q2 (%) ===
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 95 -> 95.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 33 -> 33.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - ISF para 2024 Q2 (%): 8.8
+2025-04-23 15:17:11,882 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q3 (%) ===
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 83 -> 83.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:17:11,882 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:17:11,883 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 15:17:11,883 - app_desempenho - INFO - Conversão de valor: 19 -> 19.0
+2025-04-23 15:17:11,883 - app_desempenho - INFO - ISF para 2024 Q3 (%): 8.4
+2025-04-23 15:17:32,108 - app_desempenho - ERROR - Erro ao usar a API do Google Gemini: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2025-04-23 15:17:57,604 - app_desempenho - INFO - Carregado município: ARAÇOIABA do arquivo ARAÇOIABA.json
+2025-04-23 15:17:57,605 - app_desempenho - INFO - Carregado município: CONDADO do arquivo CONDADO.json
+2025-04-23 15:17:57,605 - app_desempenho - INFO - Carregado município: MANARI do arquivo MANARI.json
+2025-04-23 15:17:57,610 - app_desempenho - INFO - Períodos identificados: ['2022 Q1 (%)', '2022 Q2 (%)', '2022 Q3 (%)', '2023 Q1 (%)', '2023 Q2 (%)', '2023 Q3 (%)', '2024 Q1 (%)', '2024 Q2 (%)', '2024 Q3 (%)']
+2025-04-23 15:17:57,611 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q1 (%) ===
+2025-04-23 15:17:57,611 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:17:57,611 - app_desempenho - INFO - Conversão de valor: 65 -> 65.0
+2025-04-23 15:17:57,611 - app_desempenho - INFO - Conversão de valor: 57 -> 57.0
+2025-04-23 15:17:57,612 - app_desempenho - INFO - Conversão de valor: 15 -> 15.0
+2025-04-23 15:17:57,612 - app_desempenho - INFO - Conversão de valor: 72 -> 72.0
+2025-04-23 15:17:57,612 - app_desempenho - INFO - Conversão de valor: 19 -> 19.0
+2025-04-23 15:17:57,613 - app_desempenho - INFO - Conversão de valor: 12 -> 12.0
+2025-04-23 15:17:57,613 - app_desempenho - INFO - ISF para 2022 Q1 (%): 6.7
+2025-04-23 15:17:57,613 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q2 (%) ===
+2025-04-23 15:17:57,613 - app_desempenho - INFO - Conversão de valor: 51 -> 51.0
+2025-04-23 15:17:57,614 - app_desempenho - INFO - Conversão de valor: 88 -> 88.0
+2025-04-23 15:17:57,614 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:17:57,614 - app_desempenho - INFO - Conversão de valor: 17 -> 17.0
+2025-04-23 15:17:57,614 - app_desempenho - INFO - Conversão de valor: 86 -> 86.0
+2025-04-23 15:17:57,614 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:17:57,614 - app_desempenho - INFO - Conversão de valor: 14 -> 14.0
+2025-04-23 15:17:57,614 - app_desempenho - INFO - ISF para 2022 Q2 (%): 7.4
+2025-04-23 15:17:57,614 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q3 (%) ===
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 43 -> 43.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 58 -> 58.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 58 -> 58.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 29 -> 29.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - ISF para 2022 Q3 (%): 7.6
+2025-04-23 15:17:57,615 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q1 (%) ===
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 78 -> 78.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 89 -> 89.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:17:57,615 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - ISF para 2023 Q1 (%): 9.1
+2025-04-23 15:17:57,616 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q2 (%) ===
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 73 -> 73.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 97 -> 97.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 93 -> 93.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 44 -> 44.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 43 -> 43.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - ISF para 2023 Q2 (%): 9.4
+2025-04-23 15:17:57,616 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q3 (%) ===
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 32 -> 32.0
+2025-04-23 15:17:57,616 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - ISF para 2023 Q3 (%): 8.8
+2025-04-23 15:17:57,617 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q1 (%) ===
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 77 -> 77.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 75 -> 75.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 37 -> 37.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 95 -> 95.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 38 -> 38.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:17:57,617 - app_desempenho - INFO - ISF para 2024 Q1 (%): 9.3
+2025-04-23 15:17:57,617 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q2 (%) ===
+2025-04-23 15:17:57,617 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:17:57,618 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:17:57,618 - app_desempenho - INFO - Conversão de valor: 84 -> 84.0
+2025-04-23 15:17:57,618 - app_desempenho - INFO - Conversão de valor: 37 -> 37.0
+2025-04-23 15:17:57,618 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:17:57,618 - app_desempenho - INFO - Conversão de valor: 28 -> 28.0
+2025-04-23 15:17:57,618 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:17:57,619 - app_desempenho - INFO - ISF para 2024 Q2 (%): 8.4
+2025-04-23 15:17:57,619 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q3 (%) ===
+2025-04-23 15:17:57,619 - app_desempenho - INFO - Conversão de valor: 64 -> 64.0
+2025-04-23 15:17:57,619 - app_desempenho - INFO - Conversão de valor: 93 -> 93.0
+2025-04-23 15:17:57,619 - app_desempenho - INFO - Conversão de valor: 88 -> 88.0
+2025-04-23 15:17:57,619 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:17:57,619 - app_desempenho - INFO - Conversão de valor: 93 -> 93.0
+2025-04-23 15:17:57,619 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:17:57,620 - app_desempenho - INFO - Conversão de valor: 29 -> 29.0
+2025-04-23 15:17:57,620 - app_desempenho - INFO - ISF para 2024 Q3 (%): 8.8
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Carregado município: ARAÇOIABA do arquivo ARAÇOIABA.json
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Carregado município: CONDADO do arquivo CONDADO.json
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Carregado município: MANARI do arquivo MANARI.json
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Períodos identificados: ['2022 Q1 (%)', '2022 Q2 (%)', '2022 Q3 (%)', '2023 Q1 (%)', '2023 Q2 (%)', '2023 Q3 (%)', '2024 Q1 (%)', '2024 Q2 (%)', '2024 Q3 (%)']
+2025-04-23 15:18:25,869 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q1 (%) ===
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Conversão de valor: 58 -> 58.0
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Conversão de valor: 56 -> 56.0
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Conversão de valor: 58 -> 58.0
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Conversão de valor: 21 -> 21.0
+2025-04-23 15:18:25,869 - app_desempenho - INFO - Conversão de valor: 64 -> 64.0
+2025-04-23 15:18:25,884 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:18:25,884 - app_desempenho - INFO - Conversão de valor: 9 -> 9.0
+2025-04-23 15:18:25,885 - app_desempenho - INFO - ISF para 2022 Q1 (%): 6.8
+2025-04-23 15:18:25,885 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q2 (%) ===
+2025-04-23 15:18:25,885 - app_desempenho - INFO - Conversão de valor: 60 -> 60.0
+2025-04-23 15:18:25,885 - app_desempenho - INFO - Conversão de valor: 84 -> 84.0
+2025-04-23 15:18:25,886 - app_desempenho - INFO - Conversão de valor: 78 -> 78.0
+2025-04-23 15:18:25,886 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:18:25,886 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:18:25,886 - app_desempenho - INFO - Conversão de valor: 17 -> 17.0
+2025-04-23 15:18:25,886 - app_desempenho - INFO - Conversão de valor: 10 -> 10.0
+2025-04-23 15:18:25,886 - app_desempenho - INFO - ISF para 2022 Q2 (%): 7.1
+2025-04-23 15:18:25,886 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q3 (%) ===
+2025-04-23 15:18:25,886 - app_desempenho - INFO - Conversão de valor: 72 -> 72.0
+2025-04-23 15:18:25,887 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:18:25,887 - app_desempenho - INFO - Conversão de valor: 84 -> 84.0
+2025-04-23 15:18:25,887 - app_desempenho - INFO - Conversão de valor: 24 -> 24.0
+2025-04-23 15:18:25,887 - app_desempenho - INFO - Conversão de valor: 79 -> 79.0
+2025-04-23 15:18:25,887 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:18:25,887 - app_desempenho - INFO - Conversão de valor: 14 -> 14.0
+2025-04-23 15:18:25,887 - app_desempenho - INFO - ISF para 2022 Q3 (%): 7.3
+2025-04-23 15:18:25,888 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q1 (%) ===
+2025-04-23 15:18:25,888 - app_desempenho - INFO - Conversão de valor: 57 -> 57.0
+2025-04-23 15:18:25,888 - app_desempenho - INFO - Conversão de valor: 74 -> 74.0
+2025-04-23 15:18:25,888 - app_desempenho - INFO - Conversão de valor: 84 -> 84.0
+2025-04-23 15:18:25,888 - app_desempenho - INFO - Conversão de valor: 37 -> 37.0
+2025-04-23 15:18:25,888 - app_desempenho - INFO - Conversão de valor: 88 -> 88.0
+2025-04-23 15:18:25,888 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:18:25,888 - app_desempenho - INFO - Conversão de valor: 19 -> 19.0
+2025-04-23 15:18:25,889 - app_desempenho - INFO - ISF para 2023 Q1 (%): 7.9
+2025-04-23 15:18:25,889 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q2 (%) ===
+2025-04-23 15:18:25,889 - app_desempenho - INFO - Conversão de valor: 66 -> 66.0
+2025-04-23 15:18:25,889 - app_desempenho - INFO - Conversão de valor: 87 -> 87.0
+2025-04-23 15:18:25,889 - app_desempenho - INFO - Conversão de valor: 85 -> 85.0
+2025-04-23 15:18:25,889 - app_desempenho - INFO - Conversão de valor: 44 -> 44.0
+2025-04-23 15:18:25,889 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 15:18:25,889 - app_desempenho - INFO - Conversão de valor: 20 -> 20.0
+2025-04-23 15:18:25,890 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:18:25,890 - app_desempenho - INFO - ISF para 2023 Q2 (%): 8.3
+2025-04-23 15:18:25,890 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q3 (%) ===
+2025-04-23 15:18:25,890 - app_desempenho - INFO - Conversão de valor: 73 -> 73.0
+2025-04-23 15:18:25,890 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 15:18:25,890 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:18:25,890 - app_desempenho - INFO - Conversão de valor: 44 -> 44.0
+2025-04-23 15:18:25,890 - app_desempenho - INFO - Conversão de valor: 100 -> 100.0
+2025-04-23 15:18:25,891 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:18:25,891 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:18:25,891 - app_desempenho - INFO - ISF para 2023 Q3 (%): 9.4
+2025-04-23 15:18:25,891 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q1 (%) ===
+2025-04-23 15:18:25,891 - app_desempenho - INFO - Conversão de valor: 72 -> 72.0
+2025-04-23 15:18:25,891 - app_desempenho - INFO - Conversão de valor: 89 -> 89.0
+2025-04-23 15:18:25,891 - app_desempenho - INFO - Conversão de valor: 86 -> 86.0
+2025-04-23 15:18:25,891 - app_desempenho - INFO - Conversão de valor: 46 -> 46.0
+2025-04-23 15:18:25,892 - app_desempenho - INFO - Conversão de valor: 93 -> 93.0
+2025-04-23 15:18:25,892 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 15:18:25,892 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:18:25,892 - app_desempenho - INFO - ISF para 2024 Q1 (%): 9.7
+2025-04-23 15:18:25,892 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q2 (%) ===
+2025-04-23 15:18:25,892 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:18:25,892 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 15:18:25,892 - app_desempenho - INFO - Conversão de valor: 85 -> 85.0
+2025-04-23 15:18:25,893 - app_desempenho - INFO - Conversão de valor: 46 -> 46.0
+2025-04-23 15:18:25,893 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:18:25,893 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:18:25,893 - app_desempenho - INFO - Conversão de valor: 37 -> 37.0
+2025-04-23 15:18:25,893 - app_desempenho - INFO - ISF para 2024 Q2 (%): 9.3
+2025-04-23 15:18:25,893 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q3 (%) ===
+2025-04-23 15:18:25,893 - app_desempenho - INFO - Conversão de valor: 73 -> 73.0
+2025-04-23 15:18:25,894 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:18:25,894 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:18:25,894 - app_desempenho - INFO - Conversão de valor: 46 -> 46.0
+2025-04-23 15:18:25,894 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:18:25,894 - app_desempenho - INFO - Conversão de valor: 16 -> 16.0
+2025-04-23 15:18:25,894 - app_desempenho - INFO - Conversão de valor: 13 -> 13.0
+2025-04-23 15:18:25,894 - app_desempenho - INFO - ISF para 2024 Q3 (%): 7.9
+2025-04-23 15:24:06,115 - app_desempenho - INFO - Carregado município: ARAÇOIABA do arquivo ARAÇOIABA.json
+2025-04-23 15:24:06,115 - app_desempenho - INFO - Carregado município: CONDADO do arquivo CONDADO.json
+2025-04-23 15:24:06,115 - app_desempenho - INFO - Carregado município: MANARI do arquivo MANARI.json
+2025-04-23 15:24:06,137 - app_desempenho - INFO - Períodos identificados: ['2022 Q1 (%)', '2022 Q2 (%)', '2022 Q3 (%)', '2023 Q1 (%)', '2023 Q2 (%)', '2023 Q3 (%)', '2024 Q1 (%)', '2024 Q2 (%)', '2024 Q3 (%)']
+2025-04-23 15:24:06,138 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q1 (%) ===
+2025-04-23 15:24:06,138 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:24:06,138 - app_desempenho - INFO - Conversão de valor: 65 -> 65.0
+2025-04-23 15:24:06,138 - app_desempenho - INFO - Conversão de valor: 57 -> 57.0
+2025-04-23 15:24:06,139 - app_desempenho - INFO - Conversão de valor: 15 -> 15.0
+2025-04-23 15:24:06,139 - app_desempenho - INFO - Conversão de valor: 72 -> 72.0
+2025-04-23 15:24:06,139 - app_desempenho - INFO - Conversão de valor: 19 -> 19.0
+2025-04-23 15:24:06,139 - app_desempenho - INFO - Conversão de valor: 12 -> 12.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - ISF para 2022 Q1 (%): 6.7
+2025-04-23 15:24:06,140 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q2 (%) ===
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 51 -> 51.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 88 -> 88.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 17 -> 17.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 86 -> 86.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 14 -> 14.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - ISF para 2022 Q2 (%): 7.4
+2025-04-23 15:24:06,140 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q3 (%) ===
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 43 -> 43.0
+2025-04-23 15:24:06,140 - app_desempenho - INFO - Conversão de valor: 58 -> 58.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 58 -> 58.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 29 -> 29.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - ISF para 2022 Q3 (%): 7.6
+2025-04-23 15:24:06,141 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q1 (%) ===
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 78 -> 78.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 89 -> 89.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:24:06,141 - app_desempenho - INFO - ISF para 2023 Q1 (%): 9.1
+2025-04-23 15:24:06,141 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q2 (%) ===
+2025-04-23 15:24:06,141 - app_desempenho - INFO - Conversão de valor: 73 -> 73.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 97 -> 97.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 93 -> 93.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 44 -> 44.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 43 -> 43.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - ISF para 2023 Q2 (%): 9.4
+2025-04-23 15:24:06,142 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q3 (%) ===
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:24:06,142 - app_desempenho - INFO - Conversão de valor: 32 -> 32.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - ISF para 2023 Q3 (%): 8.8
+2025-04-23 15:24:06,143 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q1 (%) ===
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 77 -> 77.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 75 -> 75.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 37 -> 37.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 95 -> 95.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 38 -> 38.0
+2025-04-23 15:24:06,143 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:24:06,144 - app_desempenho - INFO - ISF para 2024 Q1 (%): 9.3
+2025-04-23 15:24:06,144 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q2 (%) ===
+2025-04-23 15:24:06,144 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:24:06,144 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:24:06,144 - app_desempenho - INFO - Conversão de valor: 84 -> 84.0
+2025-04-23 15:24:06,144 - app_desempenho - INFO - Conversão de valor: 37 -> 37.0
+2025-04-23 15:24:06,144 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:24:06,144 - app_desempenho - INFO - Conversão de valor: 28 -> 28.0
+2025-04-23 15:24:06,144 - app_desempenho - INFO - Conversão de valor: 23 -> 23.0
+2025-04-23 15:24:06,144 - app_desempenho - INFO - ISF para 2024 Q2 (%): 8.4
+2025-04-23 15:24:06,144 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q3 (%) ===
+2025-04-23 15:24:06,145 - app_desempenho - INFO - Conversão de valor: 64 -> 64.0
+2025-04-23 15:24:06,145 - app_desempenho - INFO - Conversão de valor: 93 -> 93.0
+2025-04-23 15:24:06,145 - app_desempenho - INFO - Conversão de valor: 88 -> 88.0
+2025-04-23 15:24:06,145 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:24:06,145 - app_desempenho - INFO - Conversão de valor: 93 -> 93.0
+2025-04-23 15:24:06,145 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:24:06,145 - app_desempenho - INFO - Conversão de valor: 29 -> 29.0
+2025-04-23 15:24:06,146 - app_desempenho - INFO - ISF para 2024 Q3 (%): 8.8
+2025-04-23 15:30:26,394 - app_desempenho - INFO - Carregado município: ARAÇOIABA do arquivo ARAÇOIABA.json
+2025-04-23 15:30:26,394 - app_desempenho - INFO - Carregado município: CONDADO do arquivo CONDADO.json
+2025-04-23 15:30:26,395 - app_desempenho - INFO - Carregado município: MANARI do arquivo MANARI.json
+2025-04-23 15:30:26,400 - app_desempenho - INFO - Períodos identificados: ['2022 Q1 (%)', '2022 Q2 (%)', '2022 Q3 (%)', '2023 Q1 (%)', '2023 Q2 (%)', '2023 Q3 (%)', '2024 Q1 (%)', '2024 Q2 (%)', '2024 Q3 (%)']
+2025-04-23 15:30:26,400 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q1 (%) ===
+2025-04-23 15:30:26,400 - app_desempenho - INFO - Conversão de valor: 45 -> 45.0
+2025-04-23 15:30:26,401 - app_desempenho - INFO - Conversão de valor: 68 -> 68.0
+2025-04-23 15:30:26,401 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:30:26,401 - app_desempenho - INFO - Conversão de valor: 18 -> 18.0
+2025-04-23 15:30:26,401 - app_desempenho - INFO - Conversão de valor: 86 -> 86.0
+2025-04-23 15:30:26,402 - app_desempenho - INFO - Conversão de valor: 17 -> 17.0
+2025-04-23 15:30:26,402 - app_desempenho - INFO - Conversão de valor: 6 -> 6.0
+2025-04-23 15:30:26,402 - app_desempenho - INFO - ISF para 2022 Q1 (%): 7.1
+2025-04-23 15:30:26,403 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q2 (%) ===
+2025-04-23 15:30:26,403 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:30:26,403 - app_desempenho - INFO - Conversão de valor: 77 -> 77.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 81 -> 81.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 20 -> 20.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 24 -> 24.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 9 -> 9.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - ISF para 2022 Q2 (%): 7.4
+2025-04-23 15:30:26,404 - app_desempenho - INFO - 
+=== Calculando ISF para 2022 Q3 (%) ===
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 51 -> 51.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 80 -> 80.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 83 -> 83.0
+2025-04-23 15:30:26,404 - app_desempenho - INFO - Conversão de valor: 21 -> 21.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 78 -> 78.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 22 -> 22.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 10 -> 10.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - ISF para 2022 Q3 (%): 7.2
+2025-04-23 15:30:26,405 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q1 (%) ===
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 39 -> 39.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 90 -> 90.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 69 -> 69.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 26 -> 26.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - ISF para 2023 Q1 (%): 8.3
+2025-04-23 15:30:26,405 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q2 (%) ===
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 54 -> 54.0
+2025-04-23 15:30:26,405 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 31 -> 31.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 91 -> 91.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 50 -> 50.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - ISF para 2023 Q2 (%): 9.6
+2025-04-23 15:30:26,406 - app_desempenho - INFO - 
+=== Calculando ISF para 2023 Q3 (%) ===
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 66 -> 66.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 98 -> 98.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 36 -> 36.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 50 -> 50.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 47 -> 47.0
+2025-04-23 15:30:26,406 - app_desempenho - INFO - ISF para 2023 Q3 (%): 9.8
+2025-04-23 15:30:26,406 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q1 (%) ===
+2025-04-23 15:30:26,406 - app_desempenho - INFO - Conversão de valor: 64 -> 64.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 96 -> 96.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 48 -> 48.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 49 -> 49.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - ISF para 2024 Q1 (%): 9.9
+2025-04-23 15:30:26,407 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q2 (%) ===
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 70 -> 70.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 99 -> 99.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 95 -> 95.0
+2025-04-23 15:30:26,407 - app_desempenho - INFO - Conversão de valor: 42 -> 42.0
+2025-04-23 15:30:26,408 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:30:26,408 - app_desempenho - INFO - Conversão de valor: 33 -> 33.0
+2025-04-23 15:30:26,408 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 15:30:26,408 - app_desempenho - INFO - ISF para 2024 Q2 (%): 8.8
+2025-04-23 15:30:26,408 - app_desempenho - INFO - 
+=== Calculando ISF para 2024 Q3 (%) ===
+2025-04-23 15:30:26,408 - app_desempenho - INFO - Conversão de valor: 71 -> 71.0
+2025-04-23 15:30:26,408 - app_desempenho - INFO - Conversão de valor: 92 -> 92.0
+2025-04-23 15:30:26,408 - app_desempenho - INFO - Conversão de valor: 83 -> 83.0
+2025-04-23 15:30:26,408 - app_desempenho - INFO - Conversão de valor: 41 -> 41.0
+2025-04-23 15:30:26,408 - app_desempenho - INFO - Conversão de valor: 94 -> 94.0
+2025-04-23 15:30:26,409 - app_desempenho - INFO - Conversão de valor: 25 -> 25.0
+2025-04-23 15:30:26,409 - app_desempenho - INFO - Conversão de valor: 19 -> 19.0
+2025-04-23 15:30:26,409 - app_desempenho - INFO - ISF para 2024 Q3 (%): 8.4
